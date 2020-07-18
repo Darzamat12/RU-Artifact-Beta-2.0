@@ -4,7 +4,7 @@
 
 	//Items
 
-	"CardLore_10263"		"Long ago, the Apotheosis Blade was forged with a singular and wicked purpose: to let the wielder kill a god and assume its power. Today, it is but one of many accursed artifacts safely tucked away inside the Burnt Hall of Weeping Rose. — <i>Jolixia, The Card Faun</i>"
+	"CardLore_10263"		"Давным давно, Меч Апофеоза был скован с единственной злой целью: позволить владельцу убиль Бога и получить его силу. Сейчас, это один из многих проклятых артефактов, надежно спрятанных внутри the Burnt Hall of Weeping Rose  — <i>Джоликсия, Хранительница карт</i>"
 	"CardLore_10202"		"To bolster their numbers, the Sisters of the Veil often abduct children and train them in their ways. When they come of age, they are bestowed this in preparation of their first kill. — <i>Jolixia, The Card Faun</i>"
 	"CardLore_10208"		"You have to be really careful when you put this thing on. — <i>Jolixia, The Card Faun</i>"
 	"CardLore_10212"		"The Knights of the Vigil were renowned for their skill in battle. The stories of Sven, Geeta the Wildblade, and Klemens have captured the imagination of so many... you can't throw a rock in the Gardens of Freth without hitting a group of school kids recreating their adventures. But playing a knight is easy... wielding one of their swords is far more challenging. — <i>Jolixia, The Card Faun</i>"
